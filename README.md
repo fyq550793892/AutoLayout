@@ -1,2 +1,3 @@
-# AutoLayout
-屏幕自动适配
+# Autolayout
+详见：
+http://blog.csdn.net/zhengjingle/article/details/51742839
