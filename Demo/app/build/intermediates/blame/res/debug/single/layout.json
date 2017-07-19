@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Meng\\Desktop\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\Meng\\Desktop\\Demo\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meng\\Desktop\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\demo.xml",
+        "source": "C:\\Users\\Meng\\Desktop\\Demo\\app\\src\\main\\res\\layout\\demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meng\\Desktop\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Meng\\Desktop\\Demo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Meng\\Desktop\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "C:\\Users\\Meng\\Desktop\\Demo\\app\\src\\main\\res\\layout\\list.xml"
+    }
+]
