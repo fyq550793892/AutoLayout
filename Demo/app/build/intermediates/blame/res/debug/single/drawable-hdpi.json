@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Meng\\Desktop\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
         "source": "C:\\Users\\Meng\\Desktop\\Demo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     }

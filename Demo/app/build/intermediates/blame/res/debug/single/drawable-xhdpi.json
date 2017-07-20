@@ -8,20 +8,48 @@
         "source": "C:\\Users\\Meng\\Desktop\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\comments_list.9.png"
     },
     {
+        "merged": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\homepage_01.png",
+        "source": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\homepage_01.png"
+    },
+    {
         "merged": "C:\\Users\\Meng\\Desktop\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\homepage_01.png",
         "source": "C:\\Users\\Meng\\Desktop\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\homepage_01.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\down_green.png",
+        "source": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\down_green.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ben_p_result.png",
+        "source": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\ben_p_result.png"
     },
     {
         "merged": "C:\\Users\\Meng\\Desktop\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\down_green.png",
         "source": "C:\\Users\\Meng\\Desktop\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\down_green.png"
     },
     {
+        "merged": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\efficacy_01.png",
+        "source": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\efficacy_01.png"
+    },
+    {
         "merged": "C:\\Users\\Meng\\Desktop\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\efficacy_01.png",
         "source": "C:\\Users\\Meng\\Desktop\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\efficacy_01.png"
     },
     {
+        "merged": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\leiji_result_selected.png",
+        "source": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\leiji_result_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\comments.png",
+        "source": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\comments.png"
+    },
+    {
         "merged": "C:\\Users\\Meng\\Desktop\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\comments.png",
         "source": "C:\\Users\\Meng\\Desktop\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\comments.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon.png",
+        "source": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
     },
     {
         "merged": "C:\\Users\\Meng\\Desktop\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\leiji_result_selected.png",
@@ -32,11 +60,23 @@
         "source": "C:\\Users\\Meng\\Desktop\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\ben_p_result.png"
     },
     {
+        "merged": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\up_red.png",
+        "source": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\up_red.png"
+    },
+    {
         "merged": "C:\\Users\\Meng\\Desktop\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
         "source": "C:\\Users\\Meng\\Desktop\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
+        "merged": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\comments_list.9.png",
+        "source": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\comments_list.9.png"
+    },
+    {
         "merged": "C:\\Users\\Meng\\Desktop\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\up_red.png",
         "source": "C:\\Users\\Meng\\Desktop\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\up_red.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     }
 ]

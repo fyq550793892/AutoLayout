@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_style.xml",
+        "source": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\src\\main\\res\\drawable\\progress_style.xml"
+    },
+    {
         "merged": "C:\\Users\\Meng\\Desktop\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_style.xml",
         "source": "C:\\Users\\Meng\\Desktop\\Demo\\app\\src\\main\\res\\drawable\\progress_style.xml"
     }
