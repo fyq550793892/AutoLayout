@@ -66,6 +66,72 @@
         ]
     },
     {
+        "outputFile": "C:\\Users\\Meng\\Desktop\\AutoLayout\\Demo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Users\\Meng\\Desktop\\AutoLayout\\Demo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 41,
+                        "endOffset": 56
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "C:\\Users\\Meng\\Desktop\\AutoLayout\\Demo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 543
+                },
+                "from": {
+                    "file": "C:\\Users\\Meng\\Desktop\\AutoLayout\\Demo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "E:\\Android\\workspace\\Coach\\AutoLayout\\Demo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {

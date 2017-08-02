@@ -22,3 +22,11 @@ dependencies {
     compile 'com.android.support:support-v4:18.0.0'
     compile files('libs/android-support-v7-recyclerview.jar')
 }
+
+
+sourceSets {
+    main {
+        java.srcDirs = ['src/main/java', 'src/main/定位的目录']
+    }
+}
+
